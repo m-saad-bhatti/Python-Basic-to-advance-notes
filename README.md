@@ -5,3 +5,4 @@ Me making notes and practice while studying python
 ### 2. Input and Output
 ### 3. Conditional Statements (if, else, elif)
 ### 4. Loop (For loop and While loop)
+### 5. Lists
