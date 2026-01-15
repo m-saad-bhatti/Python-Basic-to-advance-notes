@@ -6,3 +6,4 @@ Me making notes and practice while studying python
 ### 3. Conditional Statements (if, else, elif)
 ### 4. Loop (For loop and While loop)
 ### 5. Lists
+### 6. Tuples
