@@ -15,4 +15,5 @@ print(tup[0:2])
 #methods in tuple
 tupl=(1,2,3,4,5,2,7,2,9)
 print(tupl.index(5))#here index method is used to find the index of the element
+
 print(tupl.count(2))#here count method is used to find the number of times the element is repeated in the tuple
